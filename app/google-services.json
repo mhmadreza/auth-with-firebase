@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690295841673",
+    "project_id": "coba-authent",
+    "storage_bucket": "coba-authent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690295841673:android:b39e288d0a8898beb0f758",
+        "android_client_info": {
+          "package_name": "com.mr.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690295841673-ag2temlbtab8j5mtc2t1rvkvjvlsh6ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoEFSjs_6SWR21C_zJXu4PqoKywto_HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690295841673-ag2temlbtab8j5mtc2t1rvkvjvlsh6ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
